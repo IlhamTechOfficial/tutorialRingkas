@@ -1,4 +1,4 @@
-import pyautogui as py
+import pyautogui as py  # pip install pyautogui
 
 
 # https://pyautogui.readthedocs.io/en/latest/
